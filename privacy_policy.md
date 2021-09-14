@@ -22,4 +22,4 @@ Firebaseのプライバシーポリシーはこちらになります。
 # お問い合わせ先
 何かご不明点や改善してほしいところがございましたら、お気軽に下記へお問い合わせください。
 
-[お問い合わせ](https://forms.gle/HuCRDm4R9uTpYyCy9)
+[お問い合わせ](https://forms.gle/xNaPpq2kDhY6Y8Hk9)
